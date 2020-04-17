@@ -40,4 +40,4 @@ The Backend Part of the [**Employee Management System**](https://github.com/ezaz
 The installation of all the above is taken care by the installation of XAMPP Apache Distribution Package.
 
 ## Contributition
-I'll update the information about contributing to the project by 19/04/20**.
+I'll update the information about contributing to the project by **19/04/20**.
