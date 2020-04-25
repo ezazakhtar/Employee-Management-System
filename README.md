@@ -41,3 +41,11 @@ The installation of all the above is taken care by the installation of XAMPP Apa
 
 ## Contributition
 I welcome whole heartly anyone who wants to contribute to the project. Just send an email at [ezazakhtar1@gmail.com](mailto:ezazakhtar1@gmail.com) or open a new [issue](https://github.com/ezazakhtar/Employee-Management-System/issues/new/) about what you want to do!
+
+## Contact
+Feel free contact me in any social media websites! Just search "Ezaz Akhtar". 
+
+Here are some links to various websites I'm *active*,
+ - At [Quora](https://www.quora.com/profile/Ezaz-Akhtar-1)
+ - At [Facebook](https://www.facebook.com/wayneZaz)
+ - At [Instagram](https://www.instagram.com/waynezaz/)
